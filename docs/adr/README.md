@@ -2,8 +2,6 @@
 
 Architecture decision records for deadly-scripts.
 
-# Architecture Decision Records
-
 This directory records significant architecture decisions for deadly-scripts.
 
 ## What is an ADR?

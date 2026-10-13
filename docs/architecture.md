@@ -2,8 +2,6 @@
 
 High-level structure of deadly-scripts.
 
-# Architecture
-
 This page describes the high-level structure of deadly-scripts. It is a starting
 point and is updated as the implementation evolves.
 
@@ -13,8 +11,8 @@ deadly-scripts
 
 ## Main components
 
-- `**Bash** and standard Linux tools`
-- `**Windows Script Host** (VBScript)`
+- **Bash** and standard Linux tools
+- **Windows Script Host** (VBScript)
 
 ## Data flow
 

@@ -2,8 +2,6 @@
 
 How to configure deadly-scripts.
 
-# Configuration
-
 Reference for configuring deadly-scripts.
 
 ## Where configuration lives
