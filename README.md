@@ -61,6 +61,21 @@ deadly-scripts/
 ├── .editorconfig
 ├── .gitattributes
 ├── .github/
+│   ├── CODEOWNERS
+│   ├── CONTRIBUTING.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.yml
+│   │   ├── config.yml
+│   │   ├── feature_request.yml
+│   │   └── question.yml
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── release.yml
+│   └── workflows/
+│       ├── ci.yml
+│       ├── links.yml
+│       ├── markdown-lint.yml
+│       ├── release.yml
+│       └── security.yml
 ├── .gitignore
 ├── .markdownlint-cli2.jsonc
 ├── .shellcheckrc
@@ -69,15 +84,37 @@ deadly-scripts/
 ├── CODE_OF_CONDUCT.md
 ├── COMPATIBILITY.md
 ├── CONTRIBUTING.md
+├── crash.sh
+├── docs/
+│   ├── adr/
+│   │   └── README.md
+│   ├── architecture.md
+│   ├── configuration.md
+│   ├── dependencies.md
+│   ├── development.md
+│   ├── faq.md
+│   ├── index.md
+│   ├── installation.md
+│   ├── permissions.md
+│   ├── platform-compatibility.md
+│   ├── prerequisites.md
+│   ├── releasing.md
+│   ├── safety-and-limitations.md
+│   ├── script-index.md
+│   ├── scripts/
+│   │   └── README.md
+│   ├── testing.md
+│   ├── third-party-dependencies.md
+│   ├── troubleshooting.md
+│   └── usage.md
+├── forkbomb.sh
+├── hack.sh
 ├── LICENSE
 ├── README.md
 ├── SECURITY.md
+├── shutoff.sh
 ├── SUPPORT.md
 ├── THIRD_PARTY_NOTICES.md
-├── crash.sh
-├── docs/
-├── forkbomb.sh
-├── hack.sh
-├── shutoff.sh
 └── virus.vbs
 ```
+
