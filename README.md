@@ -88,3 +88,33 @@ deadly-scripts/
 ├── shutoff.sh
 ├── virus.vbs
 └── README.md
+
+---
+
+## 📁 Project Files
+
+```text
+deadly-scripts/
+├── .editorconfig
+├── .gitattributes
+├── .github/
+├── .gitignore
+├── .markdownlint-cli2.jsonc
+├── .shellcheckrc
+├── CHANGELOG.md
+├── CITATION.cff
+├── CODE_OF_CONDUCT.md
+├── COMPATIBILITY.md
+├── CONTRIBUTING.md
+├── crash.sh
+├── docs/
+├── forkbomb.sh
+├── hack.sh
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── shutoff.sh
+├── SUPPORT.md
+├── THIRD_PARTY_NOTICES.md
+└── virus.vbs
+```
