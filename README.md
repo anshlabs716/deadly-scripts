@@ -52,43 +52,6 @@ While `invoke-bsod` focuses specifically on **PowerShell and Windows crash exper
 
 ---
 
-## 📁 Project Files
-
-```text
-deadly-scripts/
-├── .editorconfig
-├── .gitattributes
-├── .github/
-├── .gitignore
-├── .markdownlint-cli2.jsonc
-├── .shellcheckrc
-├── CHANGELOG.md
-├── CITATION.cff
-├── CODE_OF_CONDUCT.md
-├── COMPATIBILITY.md
-├── CONTRIBUTING.md
-├── crash.sh
-├── docs/
-├── forkbomb.sh
-├── hack.sh
-├── LICENSE
-├── README.md
-├── SECURITY.md
-├── shutoff.sh
-├── SUPPORT.md
-├── THIRD_PARTY_NOTICES.md
-├── virus.vbs
-```
-
-
-```text
-deadly-scripts/
-├── crash.sh
-├── hack.sh
-├── shutoff.sh
-├── virus.vbs
-└── README.md
-
 ---
 
 ## 📁 Project Files
@@ -106,15 +69,15 @@ deadly-scripts/
 ├── CODE_OF_CONDUCT.md
 ├── COMPATIBILITY.md
 ├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── SUPPORT.md
+├── THIRD_PARTY_NOTICES.md
 ├── crash.sh
 ├── docs/
 ├── forkbomb.sh
 ├── hack.sh
-├── LICENSE
-├── README.md
-├── SECURITY.md
 ├── shutoff.sh
-├── SUPPORT.md
-├── THIRD_PARTY_NOTICES.md
 └── virus.vbs
 ```
